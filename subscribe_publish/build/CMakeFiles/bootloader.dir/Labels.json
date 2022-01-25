@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/vaselinux/proyecto_aws_IoT/subscribe_publish/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/home/vaselinux/proyecto_aws_IoT/subscribe_publish/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/home/vaselinux/proyecto_aws_IoT/subscribe_publish/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/home/vaselinux/proyecto_aws_IoT/subscribe_publish/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/home/vaselinux/proyecto_aws_IoT/subscribe_publish/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/home/vaselinux/proyecto_aws_IoT/subscribe_publish/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/home/vaselinux/proyecto_aws_IoT/subscribe_publish/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		},
+		{
+			"file" : "/home/vaselinux/proyecto_aws_IoT/subscribe_publish/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/home/vaselinux/proyecto_aws_IoT/subscribe_publish/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/home/vaselinux/proyecto_aws_IoT/subscribe_publish/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
